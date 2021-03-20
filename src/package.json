@@ -1,0 +1,14 @@
+{
+  "name": "discord-custom-rich-presence",
+  "version": "1.0.0",
+  "description": "A customized Discord Rich Presence",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "MetalOoze",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  }
+}
