@@ -8,6 +8,7 @@
 In order to install this, you need to run the following command in your respected Command Prompt or Code editor.
 
 ```
+gh repo clone MetalOoze05/Discord-Custom-Rich-Presence
 ```
 
 You can also install by clicking 'Releases' in the tab at the right side.
