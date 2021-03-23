@@ -15,7 +15,7 @@
 const RPC = require('discord-rpc');
 const client = new RPC.Client({ transport: 'ipc' });
 
-let activity = {
+const activity = {
     details: "Your description Here.",
     assets: {
         large_image: "logo2",
