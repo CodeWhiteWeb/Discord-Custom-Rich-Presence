@@ -7,8 +7,8 @@
 # Installation
 In order to install this, you need to run the following command in your respected Command Prompt or Code editor.
 
-```
-gh repo clone MetalOoze05/Discord-Custom-Rich-Presence
+```coffeescript
+git clone https://github.com/MetalOoze05/Discord-Custom-Rich-Presence.git
 ```
 
 You can also install by clicking 'Releases' in the tab at the right side.
