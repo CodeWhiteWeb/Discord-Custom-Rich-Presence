@@ -19,7 +19,7 @@ You can also install by clicking 'Releases' in the tab at the right side.
 You can start the process by running the follwoing commands in your Command Prompt or Terminal in your Code Editor.
 
 ```coffeescript
- npm install discord.js
+ npm install discord-rpc
 ```
 ```coffeescript
  npm install -g pm2
